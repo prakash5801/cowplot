@@ -20,7 +20,7 @@ Description:
 URL: https://wilkelab.org/cowplot
 BugReports: https://github.com/wilkelab/cowplot/issues
 Depends:
-    R (>= 3.5.0)
+    R (>= 3.4.0)
 Imports:
     ggplot2 (> 2.2.1),
     grid,
